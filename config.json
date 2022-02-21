@@ -1,0 +1,20 @@
+{
+  "template": "./sitemap_tmp.xml",
+  "urls": [
+    "https://marketplace.asl.com.hk/market/home",
+    "https://marketplace.asl.com.hk/market/about-marketplace",
+    "https://marketplace.asl.com.hk/market/pricing",
+    "https://marketplace.asl.com.hk/market/contact-us",
+    "https://marketplace.asl.com.hk/market/product/i-datahub",
+    "https://marketplace.asl.com.hk/market/product/i-properties",
+    "https://marketplace.asl.com.hk/market/product/secconnect-aas",
+    "https://marketplace.asl.com.hk/market/product/sectraining-aas",
+    "https://marketplace.asl.com.hk/market/product/siem-aas",
+    "https://marketplace.asl.com.hk/market/product/databackup-aaS",
+    "https://marketplace.asl.com.hk/market/product/i-apptesting",
+    "https://marketplace.asl.com.hk/market/product/vdesktop-aas",
+    "https://marketplace.asl.com.hk/market/terms-of-use",
+    "https://marketplace.asl.com.hk/market/privacy-policy"
+  ],
+  "output": ""
+}
