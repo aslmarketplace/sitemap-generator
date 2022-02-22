@@ -1,6 +1,6 @@
 {
   "template": "./sitemap_tmp.xml",
-  "output": "./sitemap.xml",
+  "output": "../sitemap.xml",
   "urls": [
     "https://marketplace.asl.com.hk/market/home",
     "https://marketplace.asl.com.hk/market/about-marketplace",
