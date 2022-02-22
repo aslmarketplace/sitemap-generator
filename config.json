@@ -1,5 +1,6 @@
 {
   "template": "./sitemap_tmp.xml",
+  "output": "./sitemap.xml",
   "urls": [
     "https://marketplace.asl.com.hk/market/home",
     "https://marketplace.asl.com.hk/market/about-marketplace",
@@ -15,6 +16,5 @@
     "https://marketplace.asl.com.hk/market/product/vdesktop-aas",
     "https://marketplace.asl.com.hk/market/terms-of-use",
     "https://marketplace.asl.com.hk/market/privacy-policy"
-  ],
-  "output": ""
+  ]
 }
